@@ -16,8 +16,18 @@ public class SchoolsController : Controller
         return RedirectToAction("Index", "Home", new { page = 1, sortBy = "name" });
     }
 
-    public IActionResult Edit(int id)
+    public IActionResult Edit(int? pageIndex, string sortBy)
     {
-        return Content("IRC WALK EDIT_ID=" + id);
+        if (!pageIndex.HasValue)
+            pageIndex = 555;
+        if (String.IsNullOrWhiteSpace(sortBy))
+            sortBy = "DANIKA TEST PAGE FOR SORTBY BEING NULL OR WHITE SPACE";
+        return Content(String.Format("pageIndex={0}&sortBy={1}", pageIndex, sortBy));
+    }
+
+    public ActionResult ByStatus(int age, string status)
+    {
+        
+        return Content("The current members age is " + age + " and they are " + status);
     }
 }
