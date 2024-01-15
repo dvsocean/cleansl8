@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/cleansl8.props" />
+</Project>

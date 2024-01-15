@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/docean/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/docean/Desktop/cleansl8/cleansl8.csproj",
+      "projectName": "cleansl8",
+      "projectPath": "/Users/docean/Desktop/cleansl8/cleansl8.csproj",
+      "packagesPath": "/Users/docean/.nuget/packages/",
+      "outputPath": "/Users/docean/Desktop/cleansl8/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/docean/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/Users/docean/.nuget/NuGet/local_packages": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://ecs.jfrog.io/ecs/api/nuget/ecs-na-nuget-virtual": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
