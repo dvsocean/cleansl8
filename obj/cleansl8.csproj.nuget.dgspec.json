@@ -1,26 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danielocean/Desktop/cleansl8/cleansl8.csproj": {}
+    "/Users/docean/Desktop/cleansl8/cleansl8.csproj": {}
   },
   "projects": {
-    "/Users/danielocean/Desktop/cleansl8/cleansl8.csproj": {
+    "/Users/docean/Desktop/cleansl8/cleansl8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danielocean/Desktop/cleansl8/cleansl8.csproj",
+        "projectUniqueName": "/Users/docean/Desktop/cleansl8/cleansl8.csproj",
         "projectName": "cleansl8",
-        "projectPath": "/Users/danielocean/Desktop/cleansl8/cleansl8.csproj",
-        "packagesPath": "/Users/danielocean/.nuget/packages/",
-        "outputPath": "/Users/danielocean/Desktop/cleansl8/obj/",
+        "projectPath": "/Users/docean/Desktop/cleansl8/cleansl8.csproj",
+        "packagesPath": "/Users/docean/.nuget/packages/",
+        "outputPath": "/Users/docean/Desktop/cleansl8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/danielocean/.nuget/NuGet/NuGet.Config"
+          "/Users/docean/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "/Users/docean/.nuget/NuGet/local_packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ecs.jfrog.io/ecs/api/nuget/ecs-na-nuget-virtual": {}
         },
         "frameworks": {
           "net7.0": {
@@ -56,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

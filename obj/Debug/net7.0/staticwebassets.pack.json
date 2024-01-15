@@ -1,252 +1,560 @@
 {
   "Files": [
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/obj/Debug/net7.0/scopedcss/projectbundle/cleansl8.bundle.scp.css",
+      "Id": "/Users/docean/Desktop/cleansl8/obj/Debug/net7.0/scopedcss/projectbundle/cleansl8.bundle.scp.css",
       "PackagePath": "staticwebassets/cleansl8.bundle.scp.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/css/bootstrap-lumen.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/css/bootstrap-lumen.css",
       "PackagePath": "staticwebassets/css/bootstrap-lumen.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/css/site.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/css/fontawesome-all.min.css",
+      "PackagePath": "staticwebassets/css/fontawesome-all.min.css"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/css/noscript.css",
+      "PackagePath": "staticwebassets/css/noscript.css"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/favicon.ico",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/js/site.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/images/elements.html",
+      "PackagePath": "staticwebassets/images/elements.html"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/images/generic.html",
+      "PackagePath": "staticwebassets/images/generic.html"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/images/index.html",
+      "PackagePath": "staticwebassets/images/index.html"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/images/landing.html",
+      "PackagePath": "staticwebassets/images/landing.html"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/js/breakpoints.min.js",
+      "PackagePath": "staticwebassets/js/breakpoints.min.js"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/js/browser.min.js",
+      "PackagePath": "staticwebassets/js/browser.min.js"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/js/jquery.min.js",
+      "PackagePath": "staticwebassets/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/js/jquery.scrollex.min.js",
+      "PackagePath": "staticwebassets/js/jquery.scrollex.min.js"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/js/jquery.scrolly.min.js",
+      "PackagePath": "staticwebassets/js/jquery.scrolly.min.js"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/js/util.js",
+      "PackagePath": "staticwebassets/js/util.js"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/danielocean/Desktop/cleansl8/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/placeholder_icons/banner.jpg",
+      "PackagePath": "staticwebassets/placeholder_icons/banner.jpg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/placeholder_icons/pic01.jpg",
+      "PackagePath": "staticwebassets/placeholder_icons/pic01.jpg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/placeholder_icons/pic02.jpg",
+      "PackagePath": "staticwebassets/placeholder_icons/pic02.jpg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/placeholder_icons/pic03.jpg",
+      "PackagePath": "staticwebassets/placeholder_icons/pic03.jpg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/placeholder_icons/pic04.jpg",
+      "PackagePath": "staticwebassets/placeholder_icons/pic04.jpg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/placeholder_icons/pic05.jpg",
+      "PackagePath": "staticwebassets/placeholder_icons/pic05.jpg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/placeholder_icons/pic06.jpg",
+      "PackagePath": "staticwebassets/placeholder_icons/pic06.jpg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/placeholder_icons/pic07.jpg",
+      "PackagePath": "staticwebassets/placeholder_icons/pic07.jpg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/placeholder_icons/pic08.jpg",
+      "PackagePath": "staticwebassets/placeholder_icons/pic08.jpg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/placeholder_icons/pic09.jpg",
+      "PackagePath": "staticwebassets/placeholder_icons/pic09.jpg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/placeholder_icons/pic10.jpg",
+      "PackagePath": "staticwebassets/placeholder_icons/pic10.jpg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/placeholder_icons/pic11.jpg",
+      "PackagePath": "staticwebassets/placeholder_icons/pic11.jpg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/.DS_Store",
+      "PackagePath": "staticwebassets/sass/.DS_Store"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/base/_page.scss",
+      "PackagePath": "staticwebassets/sass/base/_page.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/base/_reset.scss",
+      "PackagePath": "staticwebassets/sass/base/_reset.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/base/_typography.scss",
+      "PackagePath": "staticwebassets/sass/base/_typography.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_actions.scss",
+      "PackagePath": "staticwebassets/sass/components/_actions.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_box.scss",
+      "PackagePath": "staticwebassets/sass/components/_box.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_button.scss",
+      "PackagePath": "staticwebassets/sass/components/_button.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_contact-method.scss",
+      "PackagePath": "staticwebassets/sass/components/_contact-method.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_form.scss",
+      "PackagePath": "staticwebassets/sass/components/_form.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_icon.scss",
+      "PackagePath": "staticwebassets/sass/components/_icon.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_icons.scss",
+      "PackagePath": "staticwebassets/sass/components/_icons.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_image.scss",
+      "PackagePath": "staticwebassets/sass/components/_image.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_list.scss",
+      "PackagePath": "staticwebassets/sass/components/_list.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_pagination.scss",
+      "PackagePath": "staticwebassets/sass/components/_pagination.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_row.scss",
+      "PackagePath": "staticwebassets/sass/components/_row.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_section.scss",
+      "PackagePath": "staticwebassets/sass/components/_section.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_spotlights.scss",
+      "PackagePath": "staticwebassets/sass/components/_spotlights.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_table.scss",
+      "PackagePath": "staticwebassets/sass/components/_table.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/components/_tiles.scss",
+      "PackagePath": "staticwebassets/sass/components/_tiles.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/layout/_banner.scss",
+      "PackagePath": "staticwebassets/sass/layout/_banner.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/layout/_contact.scss",
+      "PackagePath": "staticwebassets/sass/layout/_contact.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/layout/_footer.scss",
+      "PackagePath": "staticwebassets/sass/layout/_footer.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/layout/_header.scss",
+      "PackagePath": "staticwebassets/sass/layout/_header.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/layout/_main.scss",
+      "PackagePath": "staticwebassets/sass/layout/_main.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/layout/_menu.scss",
+      "PackagePath": "staticwebassets/sass/layout/_menu.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/layout/_wrapper.scss",
+      "PackagePath": "staticwebassets/sass/layout/_wrapper.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/libs/_breakpoints.scss",
+      "PackagePath": "staticwebassets/sass/libs/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/libs/_functions.scss",
+      "PackagePath": "staticwebassets/sass/libs/_functions.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/libs/_html-grid.scss",
+      "PackagePath": "staticwebassets/sass/libs/_html-grid.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/libs/_mixins.scss",
+      "PackagePath": "staticwebassets/sass/libs/_mixins.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/libs/_vars.scss",
+      "PackagePath": "staticwebassets/sass/libs/_vars.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/libs/_vendor.scss",
+      "PackagePath": "staticwebassets/sass/libs/_vendor.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/main.scss",
+      "PackagePath": "staticwebassets/sass/main.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/sass/noscript.scss",
+      "PackagePath": "staticwebassets/sass/noscript.scss"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/docean/Desktop/cleansl8/wwwroot/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/webfonts/fa-solid-900.woff2"
     },
     {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.cleansl8.props",
